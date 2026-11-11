@@ -18,3 +18,11 @@ Published revision directories are retained and are not replaced when a newer de
 ## 中文说明
 
 本仓库免费提供蜡笔投屏所使用的第三方组件对应源码，无需登录或注册。FDK 源码归档保持上游完整原件，附完整许可、来源版本和 SHA-256。接收端仅集成解码模块；源码归档不参与运行时播放。旧版源码目录持续保留。许可条件以原文为准，本仓库不授予 AAC 专利许可。
+
+## Reproducible archive
+
+The reproducible subdirectory normalizes only tar/gzip container metadata; it preserves every source byte and file mode. The complete original archive above remains available unchanged.
+
+- [Complete normalized source](fdk-aac/52095a61ef8bda4beb5eb1861ff81c117681c9c9/reproducible/aosp-aac-52095a6.tar.gz)
+- Normalized archive SHA-256: `9ffb501131744143e1e937ff37514a3233c151f1daf480a1cbf9ca44352c6d11`
+- Source-file manifest SHA-256: `2f7d1d1d00844b81ad92f657e58e70b4aa203b6f78076d9e9739b302a24b9267`

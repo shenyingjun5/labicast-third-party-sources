@@ -1,0 +1,12 @@
+{
+  "origin": "https://android.googlesource.com/platform/external/aac/",
+  "revision": "52095a61ef8bda4beb5eb1861ff81c117681c9c9",
+  "archive": "aosp-aac-52095a6.tar.gz",
+  "archiveBytes": 2472109,
+  "archiveSha256": "9ffb501131744143e1e937ff37514a3233c151f1daf480a1cbf9ca44352c6d11",
+  "sourceManifestSha256": "2f7d1d1d00844b81ad92f657e58e70b4aa203b6f78076d9e9739b302a24b9267",
+  "archiveNormalization": "sorted-ustar-mtime0-gzip9-v1",
+  "sourceBytesModified": false,
+  "originalPublishedArchiveSha256": "cfa55827c05bc0d2ec17cf4f61383849c137f6a52c05b2e36f58c5b258bf6dc5",
+  "license": "NOTICE.txt"
+}
